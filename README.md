@@ -5,11 +5,9 @@
 
 ## OBJECTIVE
 
-We implemented the distribution of final grade of students from the given dataset.
+We implemented the distribution of final grade of students from the given dataset using Linear Regression
 
 Data set is pre processed, and features and labels are extracted from dataset
-
-The code works easily in python 3.8.x and there are compatibility issues in the python version 3.9
 
 Examined correlations between the features and the target
 
