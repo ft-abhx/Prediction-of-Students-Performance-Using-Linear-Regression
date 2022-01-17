@@ -17,5 +17,5 @@ Examined correlations between the features and the target
 | ------------- | ------------- |
 | ABHIJITH A THAMPI | AM.EN.U4AIE20102  |
 | ADWAITH KRISHNA  | AM.EN.U4AIE20107   |
-| AJAY G NAIR  | AM.EN.U4AIE20107  |
+| AJAY G NAIR  | AM.EN.U4AIE20108  |
 | VIVIN | AM.EN.U4AIE20173 |
