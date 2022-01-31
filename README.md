@@ -9,7 +9,7 @@ We implemented the distribution of final grade of students from the given datase
 
 Data set is pre processed, and features and labels are extracted from dataset
 
-Examined correlations between the features and the target
+Examined correlations between the features and the target.
 
 ## GROUP MEMBERS 
 
